@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Proje\bin\Debug\net8.0\Proje.exe
+C:\Users\ASUS\Desktop\Proje\bin\Debug\net8.0\Proje.deps.json
+C:\Users\ASUS\Desktop\Proje\bin\Debug\net8.0\Proje.runtimeconfig.json
+C:\Users\ASUS\Desktop\Proje\bin\Debug\net8.0\Proje.dll
+C:\Users\ASUS\Desktop\Proje\bin\Debug\net8.0\Proje.pdb
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\Proje.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\Proje.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\Proje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\Proje.dll
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\refint\Proje.dll
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\Proje.pdb
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\Proje.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Proje\obj\Debug\net8.0\ref\Proje.dll
